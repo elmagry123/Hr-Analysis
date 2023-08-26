@@ -23,6 +23,9 @@
 
 ![Screenshot (1154)](https://github.com/elmagry123/Hr-Analysis/assets/124198691/5d340771-7f6b-451e-9dc1-dda99dc65df7)
 
+![Screenshot (1155)](https://github.com/elmagry123/Hr-Analysis/assets/124198691/15daf78f-0021-494a-b791-fd4a5807dc0b)
+
+
 
 
 
