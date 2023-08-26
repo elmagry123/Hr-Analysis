@@ -1,1 +1,2 @@
-# Hr-Analysis
+# HR Power BI report 
+## Project Covers:
