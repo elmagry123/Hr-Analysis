@@ -21,6 +21,11 @@
 # Final Dashboard:
 ![Screenshot (1153)](https://github.com/elmagry123/Hr-Analysis/assets/124198691/f418e68f-10ba-4a97-887c-5fec57c33b43)
 
+![Screenshot (1154)](https://github.com/elmagry123/Hr-Analysis/assets/124198691/5d340771-7f6b-451e-9dc1-dda99dc65df7)
+
+
+
+
 
 
 
