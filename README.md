@@ -17,6 +17,10 @@
 ## convert the data to Actual dataset by Power Query in Power BI:
 ![Screenshot (1187)](https://github.com/elmagry123/Hr-Analysis/assets/124198691/e98dbf32-1e6a-46a6-8a24-0719a0eedb84)
 
+
+# Final Dashboard:
+
+
  
 
 
