@@ -7,7 +7,11 @@
 ### 5-EDA by Python. (in progress).
 ### 6-Dax Functions.
 
+
+
 ## Data :
+![Screenshot (1185)](https://github.com/elmagry123/Hr-Analysis/assets/124198691/da41f38c-c38c-4cb7-bd80-f07d2dcf70a2)
+
 
 
 
